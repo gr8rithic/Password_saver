@@ -1,6 +1,10 @@
 # Password_saver
 I used Mysql and Python
 
+python packages used 
+mysql connector
+python 3.7
+
 The Project_password.txt file has the requirements and the process work flow
 
 The work is half done requires more work
